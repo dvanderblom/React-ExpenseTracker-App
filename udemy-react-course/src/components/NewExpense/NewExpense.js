@@ -21,7 +21,7 @@ const NewExpense = (props) => {
 
   const cancelForm = () => {
     setIsEditing(false);
-  };
+  };  
   
   return (
     <div className='new-expense'>
